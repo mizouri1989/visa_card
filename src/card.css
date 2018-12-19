@@ -1,0 +1,50 @@
+.backstyle{
+    background-image: url(./photo/images.jpg);
+
+background-size: cover;
+width: 30%;
+height: 50%;
+margin-left: 1%;
+border-radius: 7%;
+}
+.style img{
+    width: 18%;
+    margin-left: 10%;
+}
+.style h1{
+    text-align: right;
+    margin-right: 9%;
+}
+.style p {
+    background: #63454561;
+    margin-left: 10%;
+    font-size: 137%;
+    font-family: inherit;
+    width: fit-content;
+}
+.Infos h1{
+    font-size: inherit;
+}
+.Cardmains{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 7%;
+}
+.Date{display: flex;
+justify-content: space-around;
+margin-left: 32%;}
+.Date h4{
+    font-size: x-small;
+}
+.Date p{
+    font-size: x-small;
+    margin-left: 29%;
+}
+.Date h1{
+    font-size: inherit;
+    margin-left: 29%;
+}
+.logo img{
+    width: 62%;
+    margin-left: 38%;
+}
